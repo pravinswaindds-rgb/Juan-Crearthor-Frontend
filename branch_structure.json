@@ -1,0 +1,15 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dev-pravin",
+    "main"
+  ],
+  "parent": {
+    "dev-pravin": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "dev-pravin"
+  ]
+}
